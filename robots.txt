@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /dbCrediq/
+Disallow: /application/
+Disallow: /fase1/
+Disallow: /fase2/
+Disallow: /fase2_back_20_09_2012/
+Disallow: /fase_2_back2/
+Disallow: /picture_library/
+Disallow: /plesk-stat/
+Disallow: /system/
+Sitemap: http://usadoscrediq.com/sitemap.xml

@@ -1,0 +1,3 @@
+RewriteCond % {REQUEST_FILENAME}!
+ -F RewriteCond % {REQUEST_FILENAME}!
+ -D RewriteRule ^ (. *) $ Index.php / $ 1 [L]

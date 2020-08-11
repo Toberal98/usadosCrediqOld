@@ -1,0 +1,18 @@
+Acceso Portal Usados CrediQ
+Usuario :  usados.sv@crediq.com
+
+Contraseña :  b5b98!48627
+----------------------------------------------------------------------
+
+Ip Server: 190.0.226.158
+Usuario: ftpusadcq
+Contraseña: Ftppng9%3Y5*2019
+----------------------------------------------------------------------
+Host: 190.0.226.126
+Nombre de base de datos: crediqnuevos
+
+
+Usuario: cqadmin
+
+
+Contraseña: @dminnu3v0scq
